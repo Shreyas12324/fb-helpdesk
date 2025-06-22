@@ -24,7 +24,7 @@ This is a full-stack Facebook Helpdesk POC that allows clients to:
 
 ## 🔗 Live Demo
 
-Deployed on Vercel: [link goes here]
+Deployed on Vercel: https://fb-helpdesk-gules.vercel.app
 
 ---
 
@@ -40,7 +40,7 @@ Deployed on Vercel: [link goes here]
 
 ## 📸 Loom Video
 
-Watch demo here: [link goes here]
+Watch demo here: https://www.loom.com/share/585edc4d3a5440768ba683c99d653c70?sid=ccbdc3fe-f52b-4849-bb8f-b0e46398548b
 
 ---
 
@@ -53,6 +53,9 @@ Since Facebook advanced access needs 24+ hours, this version mocks the connectio
 ## 🛠️ To Run Locally
 
 ```bash
+cd server
+node server.js
+and in another terminal window
 cd client
 npm install
 npm start
